@@ -44,7 +44,6 @@ Before building and running SSH Runner, ensure you have the following installed:
 ## Usage
 
 SSH Runner requires five command-line arguments in the following order:
-
   
 
 **IP/Hostname:** The remote server's IP or hostname.
